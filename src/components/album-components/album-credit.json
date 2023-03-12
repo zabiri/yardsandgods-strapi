@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_album_components_album_credits",
+  "info": {
+    "displayName": "Album Credit"
+  },
+  "options": {},
+  "attributes": {
+    "Credit": {
+      "type": "string",
+      "required": true
+    },
+    "Name": {
+      "type": "string",
+      "required": true
+    },
+    "ZBProd": {
+      "type": "boolean",
+      "default": false
+    },
+    "ZBPerf": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}
